@@ -1,0 +1,15 @@
+.Recipes{
+    border: 2px solid #000;
+    padding: 10px;
+    margin: 15px;
+    background-color: aquamarine;
+    
+}
+
+.recipe-card{
+    border: 2px groove black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 12px;
+    box-shadow: #000;
+}
