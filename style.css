@@ -11,5 +11,29 @@
     padding: 20px;
     margin: 20px;
     border-radius: 12px;
-    box-shadow: #000;
+    box-shadow: 4px 10px 10px rgba(0,0,0,0.5);
+}
+
+.section-title{
+    text-align: center;
+    border: 2px dashed green;
+    padding: 10px;
+    margin: 20px;
+    background-color: lightyellow;
+}
+
+.link-button{
+    background-color: coral;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+}
+
+.recipe-img{
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #CCC;
+    max-width: 100%;
 }
